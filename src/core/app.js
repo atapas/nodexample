@@ -1,4 +1,4 @@
-const calc = require('./calcModule');
+// const calc = require('./calcModule');
 
 const { sum, sub, mul } = require('./calcModule');
 
