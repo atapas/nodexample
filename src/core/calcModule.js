@@ -5,6 +5,7 @@ const mul = (a,b) => a * b;
 
 // module.exports = "GreenRoots Blog";
 
+// Export all functions
 module.exports = {
     sum,
     sub,
